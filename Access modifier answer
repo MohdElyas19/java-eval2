@@ -1,0 +1,5 @@
+Q- access modifiers and their accessibility?--
+
+Answer- 	There are four access modifier and they are 1) Public 2)Default 3)Private and 4)Protected
+Public access modifier can be access from any class, Default and protected modifier can be access inside 
+a particular class and protected class can be access only inside the class
